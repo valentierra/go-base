@@ -24,7 +24,7 @@
     "pico": "github:tryghost/pico",
     "the-shell": "github:mityalebedev/The-Shell#v2.0.0",
     "vapor": "github:sethlilly/Vapor#v1.6.0",
-    "liebling": "github:eddiesigner/liebling#0.6.5",
+    "liebling": "github:eddiesigner/liebling",
     "mapache-godofredoninja": "github:godofredoninja/Mapache#3.1.1",
     "simply": "github:godofredoninja/simply#0.2.7",
     "paway": "github:godofredoninja/paway"
